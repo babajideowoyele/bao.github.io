@@ -1,6 +1,4 @@
 # babajideowoyele.github.io
-Babajide Alamu Owoyele
-# Babajide Owoyele's Personal Website
 
 Welcome to the GitHub repository of [Babajide Owoyele's personal website](https://babajideowoyele.github.io). This site is a dynamic portfolio showcasing Babajide's background in Design Science Research, Multimodal Analysis, and Creative Leadership.
 
